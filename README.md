@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeymo092" alt="jeymo092" /></a> </p>
 
+- 🔭 I’m currently working on **Security Operation Center**
+
+- 🌱 I’m currently learning **CLOUD SECURITY**
+
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/james-gitau-gathoni/](https://www.linkedin.com/in/james-gitau-gathoni/)
 
 - 📝 I regularly write articles on [https://www.elitetechdefender.com/](https://www.elitetechdefender.com/)
@@ -17,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/cybersleuth254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cybersleuth254" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/james-gitau-gathoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-gitau-gathoni" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mcpayload" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mcpayload" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/nZzbeUCvhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nZzbeUCvhd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
